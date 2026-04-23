@@ -1,0 +1,12 @@
+5 === 5;
+"hola" === "Hola";
+10 !== 9;
+3 >= 3;
+7 < 7;
+100 === "100";
+console.log(5 === 5);          
+console.log("hola" === "Hola");
+console.log(10 !== 9);         
+console.log(3 >= 3);          
+console.log(7 < 7);           
+console.log(100 === "100");  
